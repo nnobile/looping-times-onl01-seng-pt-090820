@@ -1,6 +1,6 @@
 def using_times
 	7.times do
-    puts "Wingardium Leviosa"
+    puts "I Love Sam"
 end
 end
 
