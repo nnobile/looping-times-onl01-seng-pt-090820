@@ -3,3 +3,5 @@ def using_times
     puts "Wingardium Leviosa"
 end
 end
+
+ruby using_times
